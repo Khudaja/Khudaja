@@ -1,6 +1,6 @@
-▫Welcome to the Adventure Game! This is a simple command-line role-playing game built with TypeScript. In this game, you venture into a dungeon where you encounter various enemies like Skeletons, Zombies, Warriors, and Assassins. Your objective is to defeat these enemies using your combat skills and strategically manage your health potions to survive as long as possible.
+- Welcome to the Adventure Game! This is a simple command-line role-playing game built with TypeScript. In this game, you venture into a dungeon where you encounter various enemies like Skeletons, Zombies, Warriors, and Assassins. Your objective is to defeat these enemies using your combat skills and strategically manage your health potions to survive as long as possible.
 
-▫ Features
+- Features
  
 ▪Dynamic Enemy Encounters: Face different enemies with varying health and attack damage.
 
@@ -10,6 +10,6 @@
 
 ▪Interactive Gameplay: Make decisions using the inquirer.js library for a more engaging experience.
 
-▫Run this on your Windows CommandPrompt by using command:
+- Run this on your Windows CommandPrompt by using command:
 
    npx adventure_game_k
